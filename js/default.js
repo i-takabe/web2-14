@@ -142,7 +142,7 @@ function keydown() {
 
     congratulations!<br>
     Human extinction was confirmed!`;
-  textDraw(2);
+  textDraw(55);
   }
 
   else if (code == "83" && oFlag == true) {
