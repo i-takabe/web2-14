@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+  font-family: 'VT323', monospace;
+  margin: 0;
+  padding: 0;
+  background-color: black
+ }
+
+.typ span{
+  opacity: 0;
+  color: #27c500;
+  font-size: 33px;
+}
+
+h3 {
+    color: #27c500;
+    font-size: 43px;
+    padding: 10px;
+    margin: 30px 0;
+    clear: both;
+}
+
+.intyp span{
+  font-size: 27px;
+  opacity: 0;
+   color: #27c500;
+}
+
+.box{
+  background-color: black;
+  border:thin dotted #27c500;
+}
